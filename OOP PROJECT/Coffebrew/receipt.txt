@@ -1,0 +1,19 @@
+CoffeeBrew Receipt
+=======================================
+Latte 2
+Frappe 0
+Capuccino 0
+Hot Chocolate 0
+Flat White 0
+====================================
+Crossaint 0
+Cookie 0
+Sandwich 0
+Crisps 0
+Cake 0
+=====================================
+ Sub Total € 6.0
+ Tip € 0.6000000000000001
+ Total € 6.6
+=========================================
+Thank You For Shopping At CoffeeBrew
